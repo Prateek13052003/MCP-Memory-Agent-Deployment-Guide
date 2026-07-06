@@ -10,8 +10,7 @@
 
 MCP Memory Agent is a full-stack **AI-powered memory and reasoning system** built using a multi-agent architecture. It goes beyond traditional chatbots by introducing a **structured knowledge graph memory layer** that allows persistent, semantic, and relationship-aware recall of information.
 
-Unlike conventional chat applications that rely only on conversation history, this system extracts, stores, and retrieves memory in a structured format using AI agents, enabling long-term contextual intelligence.
-
+Unlike conventional chat applications that rely only on conversation history, this system extracts, stores, and retrieves memory in a structured format using AI agents, enabling long-term contextual excellence.
 ---
 
 ## 🚀 Live Architecture
